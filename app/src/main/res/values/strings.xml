@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crud-de-sql</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="telefone">Telefone</string>
+    <string name="salvar">Salvar</string>
+</resources>
